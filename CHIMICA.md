@@ -10,7 +10,7 @@ Proprietà delle trasformazioni e delle sostanze
 Correlazione tra tipi di legame e proprietà di alcuni materiali
 
 ## MATERIA: Tutto ciò che possiede massa e occupa spazio
-
+-
 ## Stati di aggregazione
 
 ### differiscono dalla posizione degli atomi della materia che analiziamo:

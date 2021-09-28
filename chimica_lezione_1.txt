@@ -52,3 +52,75 @@ Proprietà dell'acqua e del perossido di idrogeno (acqua ossigenata, forte ossid
 - differenza -> un atomo di ossigeno in più nel perossido -> H20 acqua, perossido di idrogeno H2O2
 - perossido -> decompone il sangue.
 - caratteristiche fisiche più o meno uguali, caratteristiche chimiche diverse.
+
+
+
+CHIMICA LEZIONE 2
+NORME DI SCRITTURA:
+- nomi unità di misura scritti per esteso  vanno scritte in minuscolo
+- anche l'abbreviazione va inserita in minuscolo, tranne il litro
+- le grandezze fisiche, gruppi:
+    - 
+
+- proprietà estensive: dipendono dalla dimensione del campione (massa, volume)
+- proprietà intensive: non dipendono dalla dimensione del campione, possono essere impiegate per identificare una sostanza (densità, stato di aggregazione),
+
+Densità: rapporto fra la massa di un corpo e il suo volume, intensiva
+
+Temperatura:
+- più un corpo è caldo più le particelle sono in movimento fra di loro
+- unità di misura:
+    - Scala Kelvin (K) 0°C = 273,15 K ->  100°C = 373,15
+    - Scala Celsius (°C)
+- è in funzione dell'energia termica, allo zero K tutti i valori cessano di  esistere
+
+Calore:
+- trasferimento di energia termica da un corpo all'altro
+
+
+Energia, grandezza che va di  pari passo alla materia, attitudine di compiere lavoro sotto l'azione di una forza in una certa dimensione (espressa in joule)
+(Caloria: Energia che serve per aumentare di un grado l'acqua, ):
+- Cinetica: Energia in  movimento
+- Potenziale: Energia che un corpo possiede in virtù della sua posizione in un campo di forza. se la distanza è infinita l'energia potenziale tende a 0
+    una molecola che ha una grande energia potenziale è instabile (spesso sono sostanze esplosive)
+
+Tutte le sostanze chimiche contengono energia chimica:
+(Ex. la benzina ha un alta energia chimica che viene concepita come un elevata energia potenziale, che viene rilasciata durante la combustione o altre trasformazioni chimiche)
+
+
+-- LA MATERIA --
+Viene classificata in:
+- Elemento: sostanza fondamentale che non può nè esser modificata chimicamente, nè divisa in parti più piccole mantenendo le sue proprietà, possono essere:
+    - Atomi (es: neon): la più piccola parte di un elemento in grado di conservarne le proprietà chimiche
+    - singole molecole (es. ossigeno O2, azoto N2): sostanze elementari che vengono formate da legami di atomi tutti uguali.
+    Gli elementi hanno una forte tendenza a legarsi tra di loro per formare composti, ad esempio tramite le reazioni chimiche
+
+(gas nobili -> gas mono atomici ex. Xe, Ar argon, Ne neon; vengono scritti senza specificare il numero di atomi perchè si trovano in natura come sostanza formata da molecole di singoli atomi)
+
+
+- Composti: Sostanze che si formano dalla combinazione degli  elementi quando si combinano in posizioni fisse. Molecole formate da legami fra atomi diversi. non è una sostanza elementare 
+    (H20 formata da atomi di H e O)
+
+------
+Miscela: Due o più sostanze miscolate fisicamente, i componenti di una miscela possono esser separati
+
+
+
+--- ATOMI ---
+come si è arrivati alla teoria atomica:
+1) prima teoria (Dalton, 1808),:
+    a) Un elemento è composto da particelle dette atomi
+    b) Gli atomi di un elemento sono identici fra di loro, però sono diversi tra un elemento e l'altro
+    c) in una reazione chimica nessun elemento può esser trasformato in un altro elemento
+2)  Thomson 1897; fu il primo a dimostrare che nell'atomo sono presenti altre particelle. Durante un esperimento con i ragi catodici misura il rapporto fra la carica e le masse e riesce a capire che l'atomo è formato da particelle che sono circa un millesimo più piccole
+3) Milikan. Esperimento con gocce d'olio, che si mantenevano alzate con una carica elettrica, e rimuovendo la carica le gocce cadevano e aveva la massa tramite la velocità di caduta. 
+    E' riuscito a considerare un valore numerico della carica dell'elettrone, perchè 
+    le particelle di carica negative erano sempre un multiplo intero di un numero, avendo il rapporto carica su massa si è ricavato anche la massa
+    Carica elettrone 1,6 x10^-19
+    Massa elettrone 9.109x10^-31
+
+- Legge di Lavoiser: 
+
+- Legge della composizione definita e costante: Gli elementi quando reagiscono si combinano in rapporti definiti dalle loro masse, che sono costanti e definiti
+    la massa di un composto è la somma delle masse degli elementi, perciò abbiamo un'idea di quel che andremo a trovare 
+- Legge delle proporzioni multiple: se due alementi A e B reagiscono per formare due composti diversi, le differenti masse di B che si combinano con A sono intesi come rapporti di numeri interi piccoli

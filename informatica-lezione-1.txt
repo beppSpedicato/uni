@@ -1,0 +1,14 @@
+Docenti:
+    Andrea Bottino (lezioni, esercitazioni)
+    Dario Fontanel (Esercitazioni in laboratorio)
+    Fabio Cermelli (Esercitazioni in laboratorio)
+ESAME:
+- Domande brevi sulla parte di teoria (3  domande)
+- Esercizio di programmazione: fatto al pc
+
+Trovare chi sia lo studente più anziano presente nell'aula
+
+def maxAge(list):
+    return sortByAge;
+
+    
